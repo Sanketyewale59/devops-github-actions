@@ -1,0 +1,10 @@
+{
+  "name": "devops-github-actions",
+  "version": "1.0.0",
+  "description": "DevOps practical",
+  "main": "app.js",
+  "scripts": {
+    "test": "node --test",
+    "build": "node -e \"console.log('Build completed successfully')\""
+  }
+}
